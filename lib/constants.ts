@@ -1,5 +1,5 @@
 export const DOODSTREAM_BASE_URL =
-    process.env.DOODSTREAM_BASE_URL || "https://doodapi.com";
+    process.env.DOODSTREAM_BASE_URL || "https://filemoonapi.com";
 export const DOODSTREAM_API_KEY = process.env.DOODSTREAM_API_KEY || '459390z2ovu6s77jdi27fn';
 export const SITENAME = process.env.SITENAME || "Bokep Viral Smp";
 export const DEFAULT_PER_PAGE = parseInt(process.env.DEFAULT_PER_PAGE || "20");
